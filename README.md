@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Update TFLite Docs images (#8605)
