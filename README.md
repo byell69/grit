@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
